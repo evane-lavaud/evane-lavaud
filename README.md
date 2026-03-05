@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my father's company website**
 
-- 🌱 I’m currently learning **Kubernetes, Astro.js, Azure Cloud**
+- 🌱 I’m currently learning **Scripting, Astro.js, Azure Cloud**
 
 - 📫 How to reach me **evane.lavaud@gmail.com**
 
